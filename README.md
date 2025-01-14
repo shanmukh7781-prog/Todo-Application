@@ -6,6 +6,8 @@ Technologies:
 - Development Tool: Vite  
 - Deployment:  https://magnificent-fenglisu-b9abe4.netlify.app/
 - Note: For the best experience, please open this application on a desktop browser.
+![1](https://github.com/user-attachments/assets/176f3de2-6b16-486f-8aab-54d3f0975e66)
+![2](https://github.com/user-attachments/assets/60f9914c-a89c-4103-91af-b2bcca7c13e0)
 
 
 
